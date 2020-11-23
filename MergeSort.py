@@ -7,6 +7,7 @@ def mergeSort(arr):
         # Dividing the array elements
         L = arr[:mid]
 
+
         # into 2 halves
         R = arr[mid:]
 
